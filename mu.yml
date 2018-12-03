@@ -1,5 +1,6 @@
 environments:
 - name: acceptance
+- name: production
 service:
   name: banana-service
   port: 8080
